@@ -1,0 +1,38 @@
+
+.h2{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.add_tarea{
+    max-width: 300px;
+    margin: 0 auto; 
+}
+.h1{
+    display: flex;
+    width: 100%;
+}
+
+.h3{
+    display: flex;
+}
+.estilo_tarea{
+   margin:0 auto;
+}
+
+.estilo_boton{
+   margin-top: 20px;
+   margin-left: -820px;
+   width: 100%;
+   width: 15px;
+   height: 15px;
+   display: block;
+}
+
+.estilo_papelera{
+   margin-left: 800px;
+   margin-top:-44px;
+   width: 10px;
+   height: 10px;
+   display: block;
+}
